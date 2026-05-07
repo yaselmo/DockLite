@@ -28,11 +28,8 @@ A lightweight Docker desktop manager for Linux built with Python and Qt.
 
 ---
 ## Preview
-<iframe width="800" height="450"
-src="https://youtu.be/dqL5DM6Fdrw"
-frameborder="0"
-allowfullscreen>
-</iframe>
+
+[![DockLite Demo](./assets/thumbnail.png)](https://youtu.be/dqL5DM6Fdrw)
 
 ---
 ## Features
