@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="Docklite.png" alt="DockLite Logo" width="220"/>
+<img src="assets/Docklite.png" alt="DockLite Logo" width="220"/>
 
 # DockLite
 
@@ -27,7 +27,14 @@ A lightweight Docker desktop manager for Linux built with Python and Qt.
 
 
 ---
+## Preview
+<iframe width="800" height="450"
+src="https://youtu.be/dqL5DM6Fdrw"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
+---
 ## Features
 
 - View all Docker containers

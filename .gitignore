@@ -26,3 +26,8 @@ dist/
 build/
 dist/
 *.spec
+
+
+DockLite.AppDir/
+*.AppImage
+*.desktop
